@@ -6,5 +6,5 @@ TLB simulator
 
 2. Gem5
 - multi-level page table 사용 가능
--- ddd
+- src/mem/multi_level_page_table_impl.hh 
 - 사용법 익혀야함..
