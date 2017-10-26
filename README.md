@@ -9,3 +9,8 @@ TLB simulator
 - multi-level page table 사용 가능
 - src/mem/multi_level_page_table_impl.hh 
 - SE mode with KVMX86CPU 
+
+3. SHMA (Extended Zsim-nvmain)
+- TLB latency + page table latency OK
+- simpoint 적용
+- benchmark test needed
